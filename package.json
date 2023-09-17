@@ -26,8 +26,8 @@
       "properties": {
         "maiker.openaiApi": {
           "type": "string",
-          "default": "",
-          "description": "Your OpenAI API key"
+          "default": "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",
+          "description": "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"
         },
         "maiker.promptContext": {
           "type": "string",
